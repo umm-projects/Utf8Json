@@ -2,9 +2,9 @@
   "name": "@umm/utf8json",
   "version": "1.0.0",
   "description": "Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).",
-  "homepage": "https://github.com/umm-projects/utf8json",
+  "homepage": "https://github.com/umm/utf8json",
   "bugs": {
-    "url": "https://github.com/umm-projects/utf8json/issues"
+    "url": "https://github.com/umm/utf8json/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,13 +18,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/utf8json"
+    "url": "git@github.com:umm/utf8json"
   },
   "files": [
     "Assets"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
