@@ -1,6 +1,6 @@
 {
   "name": "@umm/utf8json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).",
   "homepage": "https://github.com/umm/utf8json",
   "bugs": {
